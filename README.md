@@ -93,10 +93,10 @@ portabowl/
 ## Built With
 
 - **C++** — Standard Library (`iostream`, `string`, `fstream`)
-- Array-based storage (no STL containers)
+- Array-based storage
 
 ---
 
 ## Author
 
-Made with ❤️ as a small C++ project.
+Made with pure love and ideas as a small C++ project.
