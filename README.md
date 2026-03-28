@@ -75,7 +75,7 @@ Enter the number corresponding to the action you want to perform. Recipes are **
 
 Recipes are saved to a plain text file called `recipes.txt` in the same directory as the program. This file is loaded automatically every time you start PORTABOWL.
 
-> ⚠️ The program supports a maximum of **50 recipes**.
+>  The program supports a maximum of **50 recipes**.
 
 ---
 
