@@ -1,6 +1,6 @@
 ## PORTABOWL — Recipe Management System
 
-A simple command-line recipe management system written in C++. PORTABOWL lets you store, organize, search, and manage your favorite recipes — all from the terminal.
+A simple command-line recipe management system written in C++. PORTABOWL lets you store, organize, search, and manage your favorite recipes all from the terminal.
 
 ---
 
